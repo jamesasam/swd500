@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+#left_nav {
+    width:20%;
+    background-color:red;
+    float: left;
+    
+
+}
+#section {
+    width:80%;
+    background-color:peachpuff;
+    float: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%
+}
+#wrapper {
+    width:80%;
+    margin: 0 auto;
+}
